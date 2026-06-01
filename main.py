@@ -503,6 +503,6 @@ def convert(req: ConvertRequest):
 # ============================================================================
 # LOCAL RUN (agar to'g'ridan-to'g'ri ishga tushirilsa)
 # ============================================================================
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000, reload=False)
+# if __name__ == "__main__":
+#     import uvicorn
+#     uvicorn.run(app, host="0.0.0.0", port=8000, reload=False)
